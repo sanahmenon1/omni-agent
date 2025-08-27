@@ -1,10 +1,11 @@
 
 import asyncio
 import os
+import json
 from agents import Runner
 from dotenv import load_dotenv
-from src.context_extractor import context_extractor
-from src.schemas import InputPayload
+from src.context.context_extractor import context_extractor
+from src.context.schemas import InputPayload
 
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
@@ -15,9 +16,8 @@ if not api_key:
 async def process_context(brand_context: str) -> InputPayload:
     runner = Runner()
     run_result = await runner.run(context_extractor, brand_context)
-    return run_result.final_output   # <- IMPORTANT
+    return run_result.final_output 
 
-# 2) structure_output now ONLY prints; it DOES NOT call process_context
 async def structure_output(result: InputPayload) -> None:
     print(f"Brand Name: {result.brand_name}")
 
@@ -28,20 +28,20 @@ async def structure_output(result: InputPayload) -> None:
     print("\nBrand Audience:")
     for audience in result.audiences:
         print(
-            f"- Audience Name: {audience.name}, "
-            f"Gender Distribution: {audience.gender_distribution}, "
-            f"Geography: {audience.geography}, "
-            f"Income Level: {audience.income_level}, "
-            f"Psycographics: {audience.psycographics}, "
-            f"Behaviors: {audience.behaviors}, "
-            f"Pain Points: {audience.pain_points}, "
-            f"Motivations: {audience.motivations}, "
-            f"Purchase Drivers: {audience.purchase_drivers}, "
-            f"Preferred Channels: {audience.preferred_channels}")
+            f"\n - Audience Name: {audience.name}, "
+            f"\n - Gender Distribution: {audience.gender_distribution}, "
+            f"\n - Geography: {audience.geography}, "
+            f"\n - Income Level: {audience.income_level}, "
+            f"\n - Psycographics: {audience.psycographics}, "
+            f"\n - Behaviors: {audience.behaviors}, "
+            f"\n - Pain Points: {audience.pain_points}, "
+            f"\n - Motivations: {audience.motivations}, "
+            f"\n - Purchase Drivers: {audience.purchase_drivers}, "
+            f"\n - Preferred Channels: {audience.preferred_channels}")
 
-    print(f"Campaign Goal: {result.goal}")
+    print(f"\n - Campaign Goal: {result.goal}")
 
-    print("Contraints:")
+    print("\n - Contraints:")
     if result.constraints:
         print(f"- Budget: {result.constraints.budget}, "
         f"- Timeline: {result.constraints.timeline}")
@@ -62,6 +62,16 @@ CAMPAIGN GOAL: {campaign_goal}
     structured = await process_context(brand_context)
     print("Structured output:")
     await structure_output(structured)
+
+    # Save the structured brief for the next stage
+    out_dir = os.path.join(base_dir, "outputs")
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "brand_brief.json")
+
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(structured.model_dump(), f, ensure_ascii=False, indent=2)
+
+    print("Saved structured brief → outputs/brand_brief.json")
 
 if __name__ == "__main__":
     asyncio.run(main())

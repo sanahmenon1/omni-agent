@@ -1,0 +1,46 @@
+{
+  "brand_name": "SKIMS",
+  "brand_values": [
+    "inclusivity",
+    "comfort",
+    "solutions-oriented",
+    "body positivity",
+    "cultural relevance"
+  ],
+  "audiences": [
+    {
+      "name": "General Consumers",
+      "age_group": "18-44",
+      "gender_distribution": "All genders",
+      "geography": "US + International",
+      "income_level": "Middle to upper-middle class",
+      "psycographics": "Body-positive, fashion-conscious",
+      "behaviors": [
+        "Shop online",
+        "Engage with social media",
+        "Follow fashion trends"
+      ],
+      "pain_points": [
+        "Difficulty finding the right size",
+        "Lack of inclusive options"
+      ],
+      "motivations": [
+        "Seek comfortable and stylish clothing",
+        "Desire for body inclusivity"
+      ],
+      "purchase_drivers": [
+        "Promotions and bundles",
+        "Celebrity endorsements"
+      ],
+      "preferred_channels": [
+        "E-commerce website",
+        "Social media platforms"
+      ]
+    }
+  ],
+  "goal": "Awareness for Fall 2025 international push",
+  "constraints": {
+    "budget": "",
+    "timeline": ""
+  }
+}
