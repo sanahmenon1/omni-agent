@@ -1,186 +1,132 @@
 {
-  "campaign_intent": "Awareness for Fall 2025 international push",
+  "campaign_intent": "Raise awareness for SKIMS' international expansion in Fall 2025.",
   "brand_name": "SKIMS",
   "ideas": [
     {
       "category": "Digital",
-      "title": "#BodyPositiveSelfie Campaign",
-      "concept": "Encourage users to share selfies in SKIMS products using a specific hashtag, promoting body positivity and inclusivity. Utilize Instagram Stories and Reels for maximum reach.",
-      "execution_notes": "Engage with influencers to kick off the campaign and create a dedicated landing page on SKIMS' website showcasing submissions.",
-      "sources": [
-        "https://www.instagram.com/",
-        "https://www.adweek.com/"
-      ]
+      "title": "Inclusive Size Challenge on TikTok",
+      "concept": "Create a challenge inviting users to showcase how SKIMS' products cater to all sizes. Participants can demonstrate their unique style by remixing photos or videos in SKIMS attire, emphasizing comfort and inclusivity.",
+      "execution_notes": "Launch TikTok challenge; promote via influencers; encourage user-generated content; measure engagement through views and shares.",
+      "sources": []
     },
     {
       "category": "Digital",
-      "title": "Interactive Fit Finder Tool",
-      "concept": "Develop an AI-driven tool on the SKIMS website to help customers find the perfect fit based on body type and preferences, emphasizing SKIMS' inclusivity.",
-      "execution_notes": "Promote the tool through social media ads and collaborations with popular fashion bloggers.",
-      "sources": [
-        "https://skims.com/collections/shapewear",
-        "https://www.techcrunch.com/"
-      ]
+      "title": "Size Comparison Tool on Website",
+      "concept": "Develop an interactive tool to help customers find their ideal size in SKIMS products by comparing them to items they already own, enhancing the shopping experience.",
+      "execution_notes": "Integrate size comparison feature on the website; test user experience; monitor conversions via analytics.",
+      "sources": []
     },
     {
       "category": "Digital",
-      "title": "Virtual Try-On Experience",
-      "concept": "Launch a feature that allows users to virtually try on products in augmented reality through the SKIMS mobile app.",
-      "execution_notes": "Test through influencer engagement to drive app downloads and usage.",
-      "sources": [
-        "https://www.forbes.com/",
-        "https://www.theverge.com/"
-      ]
+      "title": "Comfort Quiz on Instagram",
+      "concept": "Launch an Instagram Stories quiz that prompts users about their comfort preferences, leading them to SKIMS products tailored to their needs.",
+      "execution_notes": "Create interactive quiz in Stories; link quiz results to product pages; track Instagram interactions.",
+      "sources": []
     },
     {
       "category": "Influencer",
-      "title": "Fall Collection Sneak Peeks",
-      "concept": "Collaborate with several diverse influencers for unboxing videos and try-ons of the Fall 2025 collection to create buzz ahead of launch.",
-      "execution_notes": "Focus on body-positive influencers who represent various sizes and backgrounds.",
-      "sources": [
-        "https://www.elle.com/",
-        "https://www.hollywoodreporter.com/"
-      ]
+      "title": "Body Positivity Ambassador Campaign",
+      "concept": "Partner with micro-influencers in the body positivity space. They can create content around their SKIMS experience, showcasing how the brand fits into their lifestyle and promotes inclusivity.",
+      "execution_notes": "Engage 10-15 micro-influencers; provide product for unboxing; ask for 2 posts and 3 stories each; ensure FTC disclosures.",
+      "sources": []
     },
     {
       "category": "Influencer",
-      "title": "SKIMS Style Challenges",
-      "concept": "Create a challenge for influencers to style their SKIMS outfits for various occasions, showcasing versatility and comfort of the pieces.",
-      "execution_notes": "Encourage followers to vote on their favorite looks, increasing engagement and visibility.",
-      "sources": [
-        "https://www.tiktok.com/",
-        "https://www.polygon.com/"
-      ]
+      "title": "Fashion Forward with SKIMS: Seasonal Drops",
+      "concept": "Collaborate with fashion influencers to showcase seasonal SKIMS collections in styling videos or posts, highlighting versatility and comfort.",
+      "execution_notes": "Coordinate with 5 mid-tier influencers; plan for 1x IGTV per influencer; use unique promo codes; include disclosures.",
+      "sources": []
     },
     {
       "category": "Influencer",
-      "title": "Celebrity Body-Positive Panel",
-      "concept": "Host a virtual panel featuring diverse celebrities discussing body positivity while wearing SKIMS, streamed on social media.",
-      "execution_notes": "Engage viewers through Q&A sessions and giveaways of exclusive products.",
-      "sources": [
-        "https://variety.com/",
-        "https://www.billboard.com/"
-      ]
+      "title": "Celebrity Co-Create Day",
+      "concept": "Host a virtual event with a celebrity and influencers discussing the body positivity journey while showcasing SKIMS products. Their social channels can help amplify the event.",
+      "execution_notes": "Schedule live Q&A; prepare interactive polls; use clips for social media; promote extensively before the event.",
+      "sources": []
     },
     {
       "category": "Events",
-      "title": "Pop-up Inclusivity Experience",
-      "concept": "Set up immersive pop-up stores in major cities featuring the Fall collection, interactive installations on body positivity, and styling sessions.",
-      "execution_notes": "Incorporate local body positivity organizations to enhance community engagement.",
-      "sources": [
-        "https://www.wired.com/",
-        "https://www.fastcompany.com/"
-      ]
+      "title": "SKIMS Body Positivity Fashion Show",
+      "concept": "Organize a fashion show highlighting diverse body types wearing SKIMS, streamed live on social media to draw international interest.",
+      "execution_notes": "Secure venue; invite diverse models; promote via social prior; create highlights for post-show sharing.",
+      "sources": []
     },
     {
       "category": "Events",
-      "title": "SKIMS Sports Day",
-      "concept": "Host a community event in partnership with local sports leagues, focusing on body positivity and inclusivity, featuring SKIMS products.",
-      "execution_notes": "Collaborate with athletes and influencers to bring attention to the event through social media.",
-      "sources": [
-        "https://www.sportsbusinessjournal.com/",
-        "https://www.usatoday.com/"
-      ]
+      "title": "Pop-Up Experience in Major Cities",
+      "concept": "Set up SKIMS pop-up shops in key cities, providing an interactive experience where customers can try products, attend workshops, and participate in discussions on body positivity.",
+      "execution_notes": "Plan logistics for 3 major cities; recruit brand ambassadors; promote through local influencers; gather customer feedback.",
+      "sources": []
     },
     {
       "category": "Events",
-      "title": "Fashion and Fitness Retreat",
-      "concept": "Organize a retreat featuring fitness classes, styling workshops, and discussions around body inclusivity, all while showcasing SKIMS products.",
-      "execution_notes": "Take advantage of social media for promotional content and influencer appearances.",
-      "sources": [
-        "https://www.fashionista.com/",
-        "https://www.thecut.com/"
-      ]
+      "title": "SKIMS Fitness and Fashion Day",
+      "concept": "Collaborate with fitness studios to create a day focused on comfort in activewear. Participants can try SKIMS products during workouts to experience their comfort firsthand.",
+      "execution_notes": "Partner with 3 fitness studios; schedule classes and register attendees; document event via social media.",
+      "sources": []
     },
     {
       "category": "Partnerships",
-      "title": "Collab with Body-Positive Brands",
-      "concept": "Partner with brands that align with SKIMS' values to create co-branded limited edition products promoting body inclusivity.",
-      "execution_notes": "Leverage each brand's audience to create a buzz in both communities.",
-      "sources": [
-        "https://www.businessoffashion.com/",
-        "https://www.huffpost.com/"
-      ]
+      "title": "International Influencer Partnerships with Local Celebrities",
+      "concept": "Team up with local celebrities in target international markets to create exclusive collections or limited-edition drops, enhancing cultural relevance.",
+      "execution_notes": "Identify local stars; develop co-branded promotions; leverage their networks for visibility.",
+      "sources": []
     },
     {
       "category": "Partnerships",
-      "title": "Inclusive Fitness Studio Collaborations",
-      "concept": "Collaborate with gyms and fitness studios to offer free classes that celebrate body positivity while wearing SKIMS gear, promoting comfort in movement.",
-      "execution_notes": "Incorporate giveaways of SKIMS apparel for attendees.",
-      "sources": [
-        "https://www.shape.com/",
-        "https://www.wellandgood.com/"
-      ]
+      "title": "Collaborate with Global Retailers",
+      "concept": "Partner with global retail chains (e.g., ASOS, Zalando) to feature SKIMS in their stores and online, maximizing reach to the international market.",
+      "execution_notes": "Create co-branded campaigns; provide training for retail staff on SKIMS products; track sales through retailer channels.",
+      "sources": []
     },
     {
       "category": "Partnerships",
-      "title": "Non-Profit Collaboration",
-      "concept": "Partner with body-positive non-profits to create campaigns that promote mental health and body positivity, with donations for every sale from the Fall collection.",
-      "execution_notes": "Engage local communities through joint events and social media campaigns.",
-      "sources": [
-        "https://www.charitynavigator.org/",
-        "https://www.volunteermatch.org/"
-      ]
+      "title": "Nonprofit Collaboration for Body Positivity",
+      "concept": "Collaborate with nonprofits focused on body positivity to support campaigns with shared messages, like workshops or community events.",
+      "execution_notes": "Select partner nonprofits; co-create promotional materials; plan cross-promotions on social channels.",
+      "sources": []
     },
     {
       "category": "PR",
-      "title": "Media Tour with Founders",
-      "concept": "Organize a media tour featuring Kim Kardashian and Jens Grede to discuss SKIMS' mission and upcoming international expansion plans.",
-      "execution_notes": "Focus on body positivity and inclusivity, targeting major fashion outlets for coverage.",
-      "sources": [
-        "https://www.wmagazine.com/",
-        "https://www.vogue.com/"
-      ]
+      "title": "International Launch Event",
+      "concept": "Host a global virtual event introducing SKIMS' new international collections, featuring influencers and press coverage. Highlight stories of inclusivity in the fashion industry.",
+      "execution_notes": "Send out press releases; invite global media; prepare product samples for reviewers.",
+      "sources": []
     },
     {
       "category": "PR",
-      "title": "Behind the Scenes Content",
-      "concept": "Create a PR campaign around behind-the-scenes footage of the Fall 2025 collection creation process, highlighting inclusivity in design.",
-      "execution_notes": "Distribute through press releases and social media teasers.",
-      "sources": [
-        "https://www.businessinsider.com/",
-        "https://www.townandcountrymag.com/"
-      ]
+      "title": "Body Positivity Data Insights Release",
+      "concept": "Compile and release data on body positivity trends, emphasizing SKIMS' commitment to inclusivity, and pitch to fashion outlets.",
+      "execution_notes": "Develop infographics for media; create a press kit; target fashion and lifestyle journalists.",
+      "sources": []
     },
     {
       "category": "PR",
-      "title": "Press Kit with Body Positivity Focus",
-      "concept": "Develop a press kit that includes testimonies and stories from real customers wearing SKIMS, emphasizing inclusivity and comfort.",
-      "execution_notes": "Target beauty, fashion, and lifestyle media for distribution.",
-      "sources": [
-        "https://www.prnewswire.com/",
-        "https://www.bizjournals.com/"
-      ]
+      "title": "Celebrity Testimonials Campaign",
+      "concept": "Gather testimonials from celebrities discussing their personal experiences related to body positivity and how SKIMS products help them.",
+      "execution_notes": "Record video testimonials; edit into short clips for social media; distribute through traditional media channels.",
+      "sources": []
     },
     {
       "category": "Community",
-      "title": "Local Body Positivity Meetups",
-      "concept": "Host monthly meetups in various cities to discuss body positivity, fashion and share SKIMS experiences, encouraging community building.",
-      "execution_notes": "Engage local influencers to help drive interest and attendance.",
-      "sources": [
-        "https://www.communitynews.org/",
-        "https://www.eventbrite.com/"
-      ]
+      "title": "Monthly Body Positivity Forum",
+      "concept": "Establish an ongoing forum where customers can share experiences with body positivity, comfort, and SKIMS, fostering community engagement and support.",
+      "execution_notes": "Set up forum platform; moderate discussions; encourage user interaction and sharing of testimonials.",
+      "sources": []
     },
     {
       "category": "Community",
-      "title": "Online Body Positivity Forums",
-      "concept": "Launch a dedicated forum or social media group for SKIMS users to share experiences, body positivity stories, and style tips.",
-      "execution_notes": "Facilitate moderated discussions and Q&As with experts to enhance community engagement.",
-      "sources": [
-        "https://www.commonsensemedia.org/",
-        "https://www.hootsuite.com/"
-      ]
+      "title": "SKIMS Style Exchanges",
+      "concept": "Create a virtual marketplace where customers can trade SKIMS products, promoting sustainability and community, while fostering brand loyalty.",
+      "execution_notes": "Build web platform; roll out with clear guidelines; engage customers via email newsletters.",
+      "sources": []
     },
     {
       "category": "Community",
-      "title": "Body Positivity Student Ambassadors",
-      "concept": "Create a university ambassador program where students advocate for body positivity using SKIMS products, sharing experiences on campus.",
-      "execution_notes": "Offer sponsorship and partnership benefits to enhance participation.",
-      "sources": [
-        "https://www.forbes.com/",
-        "https://www.universitybusiness.com/"
-      ]
+      "title": "Influencer-Led Body Positivity Workshops",
+      "concept": "Host regular workshops led by popular influencers focusing on body positivity and self-love, incorporating SKIMS products into discussions.",
+      "execution_notes": "Schedule monthly workshops; invite guest speakers; promote via social channels for visibility.",
+      "sources": []
     }
   ],
   "total_ideas": 18

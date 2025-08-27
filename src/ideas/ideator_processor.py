@@ -11,9 +11,11 @@ DOSSIER_FILE = "examples/skims.txt"  # optional: pass to ideator for extra conte
 
 async def main():
     base_dir = os.path.dirname(os.path.dirname(__file__))
-    in_path  = os.path.join(base_dir, INPUT_FILE)
-    out_path = os.path.join(base_dir, OUTPUT_FILE)
-    dossier_path = os.path.join(base_dir, DOSSIER_FILE)
+    root_dir = os.path.abspath(os.path.join(base_dir, ".."))
+
+    in_path  = os.path.join(root_dir, INPUT_FILE)
+    out_path = os.path.join(root_dir, OUTPUT_FILE)
+    dossier_path = os.path.join(root_dir, DOSSIER_FILE)
 
     # load structured brief
     with open(in_path, "r", encoding="utf-8") as f:
