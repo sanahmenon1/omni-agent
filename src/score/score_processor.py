@@ -2,7 +2,7 @@
 import asyncio, os, json
 from dotenv import load_dotenv
 from agents import Runner
-from src.score.score_extractor import score_agent  # <-- use your SCORE agent
+from src.score.score_extractor import score_agent
 
 load_dotenv()
 
@@ -45,12 +45,12 @@ async def main():
 
     runner = Runner()
 
-    # 2) score ideas (simple sequential loop to keep things minimal)
+    # 2) score ideas
     scored_ideas = []
     for idea in ideas_list:
         prompt = build_idea_payload(brief_obj, idea)
         res = await runner.run(score_agent, prompt)
-        score_dict = res.final_output.model_dump()  # IdeaScore -> dict
+        score_dict = res.final_output.model_dump()
         scored_ideas.append({**idea, "scores": score_dict})
 
     # 3) write output

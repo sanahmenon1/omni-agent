@@ -13,12 +13,12 @@
         "https://www.adweek.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
+        "brand_fit": 4.5,
+        "audience": 4.0,
         "resonance": 4.5,
         "virality": 4.5,
         "feasibility": 4.0,
-        "rationale": "The campaign aligns excellently with SKIMS' values of inclusivity and body positivity while targeting a fashion-conscious audience effectively."
+        "rationale": "The idea aligns well with SKIMS' values of inclusivity and body positivity, leveraging popular platforms for audience engagement."
       }
     },
     {
@@ -31,12 +31,12 @@
         "https://www.techcrunch.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
+        "brand_fit": 4.5,
+        "audience": 4.25,
         "resonance": 4.0,
-        "virality": 4.0,
-        "feasibility": 4.0,
-        "rationale": "The AI-driven tool perfectly aligns with SKIMS' values of inclusivity and comfort, engaging the target audience while being feasible for implementation."
+        "virality": 3.75,
+        "feasibility": 3.5,
+        "rationale": "The interactive tool aligns well with brand values and addresses customer pain points, but raises concerns about development resources and timeline."
       }
     },
     {
@@ -49,12 +49,12 @@
         "https://www.theverge.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 4.5,
-        "resonance": 4.0,
-        "virality": 4.5,
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.5,
+        "virality": 4.0,
         "feasibility": 3.5,
-        "rationale": "The virtual try-on experience strongly aligns with SKIMS' values of inclusivity and body positivity while addressing consumer pain points, though implementation complexity and influencer engagement could pose challenges."
+        "rationale": "Virtual try-on aligns with SKIMS' inclusivity and comfort values, but requires significant investment and technical development."
       }
     },
     {
@@ -67,12 +67,12 @@
         "https://www.hollywoodreporter.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 4.5,
-        "virality": 4.0,
-        "feasibility": 4.5,
-        "rationale": "This influencer collaboration strongly aligns with SKIMS' values of inclusivity and body positivity, effectively reaching the target audience while leveraging social media for maximum buzz."
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.0,
+        "virality": 4.25,
+        "feasibility": 3.5,
+        "rationale": "The idea effectively aligns with SKIMS' values and targets a broad audience, but influencer logistics may pose execution risks."
       }
     },
     {
@@ -86,11 +86,11 @@
       ],
       "scores": {
         "brand_fit": 4.5,
-        "audience": 4.5,
+        "audience": 4.0,
         "resonance": 4.0,
-        "virality": 4.5,
+        "virality": 4.25,
         "feasibility": 4.0,
-        "rationale": "The SKIMS Style Challenges align well with the brand's values of inclusivity and body positivity while effectively engaging the target audience through social media."
+        "rationale": "This idea leverages influencer engagement to highlight SKIMS' brand values while aligning well with the target audience's behaviors."
       }
     },
     {
@@ -103,12 +103,12 @@
         "https://www.billboard.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 5.0,
-        "virality": 4.5,
-        "feasibility": 4.0,
-        "rationale": "This idea strongly aligns with SKIMS' values of inclusivity and body positivity while effectively targeting the fashion-conscious, body-positive audience."
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.25,
+        "virality": 4.0,
+        "feasibility": 3.5,
+        "rationale": "The idea aligns well with SKIMS' values of inclusivity and body positivity but faces potential execution challenges in celebrity engagement."
       }
     },
     {
@@ -121,12 +121,12 @@
         "https://www.fastcompany.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 4.5,
-        "virality": 4.0,
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.25,
+        "virality": 3.75,
         "feasibility": 3.5,
-        "rationale": "The pop-up experience strongly aligns with SKIMS' values of inclusivity and body positivity while effectively targeting their audience and promoting awareness."
+        "rationale": "The concept strongly aligns with SKIMS' values but requires detailed planning for execution and community collaboration."
       }
     },
     {
@@ -140,11 +140,11 @@
       ],
       "scores": {
         "brand_fit": 4.5,
-        "audience": 4.5,
-        "resonance": 4.0,
+        "audience": 4.0,
+        "resonance": 4.25,
         "virality": 4.0,
         "feasibility": 3.5,
-        "rationale": "The SKIMS Sports Day aligns well with brand values and target audience but faces some operational complexity in partnership logistics."
+        "rationale": "The event aligns well with SKIMS's values of body positivity and inclusivity but faces operational challenges in execution."
       }
     },
     {
@@ -157,12 +157,12 @@
         "https://www.thecut.com/"
       ],
       "scores": {
-        "brand_fit": 4.5,
-        "audience": 4.5,
-        "resonance": 5.0,
-        "virality": 4.5,
-        "feasibility": 3.5,
-        "rationale": "The retreat strongly aligns with SKIMS' values of inclusivity and body positivity while effectively engaging the target audience through trendy fitness and fashion experiences."
+        "brand_fit": 4.25,
+        "audience": 4.0,
+        "resonance": 4.5,
+        "virality": 4.0,
+        "feasibility": 3.0,
+        "rationale": "The idea aligns well with SKIMS' values but requires careful planning and resources to execute effectively."
       }
     },
     {
@@ -175,12 +175,12 @@
         "https://www.huffpost.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 4.5,
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.25,
         "virality": 4.0,
-        "feasibility": 4.5,
-        "rationale": "The partnership aligns perfectly with SKIMS' values of inclusivity and body positivity, effectively targeting the audience while leveraging community engagement."
+        "feasibility": 3.5,
+        "rationale": "The partnership aligns well with SKIMS' values, but the execution may face logistical challenges."
       }
     },
     {
@@ -194,11 +194,11 @@
       ],
       "scores": {
         "brand_fit": 4.5,
-        "audience": 4.5,
-        "resonance": 4.0,
-        "virality": 3.5,
-        "feasibility": 4.0,
-        "rationale": "The collaboration aligns well with SKIMS' values of body positivity and inclusivity, effectively targets the fashion-conscious audience, and enhances brand awareness while being operationally feasible."
+        "audience": 4.0,
+        "resonance": 4.25,
+        "virality": 4.0,
+        "feasibility": 3.5,
+        "rationale": "The idea aligns well with SKIMS' values of inclusivity and body positivity, though operational details need more clarity."
       }
     },
     {
@@ -211,12 +211,12 @@
         "https://www.volunteermatch.org/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 5.0,
-        "virality": 4.0,
-        "feasibility": 4.0,
-        "rationale": "This idea aligns perfectly with SKIMS' values and goals, leveraging its audience's motivations while fostering community engagement."
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.5,
+        "virality": 3.5,
+        "feasibility": 3.5,
+        "rationale": "The idea strongly aligns with brand values and targets the audience, but execution aspects may face logistical challenges."
       }
     },
     {
@@ -229,12 +229,12 @@
         "https://www.vogue.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 4.5,
-        "resonance": 4.75,
-        "virality": 4.0,
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.25,
+        "virality": 3.5,
         "feasibility": 4.0,
-        "rationale": "The media tour aligns perfectly with SKIMS' values while effectively targeting a fashion-conscious audience, though there may be minor challenges in optimizing influencer engagement."
+        "rationale": "The media tour aligns well with SKIMS' values and audience, but the reliance on traditional media limits potential virality."
       }
     },
     {
@@ -247,12 +247,12 @@
         "https://www.townandcountrymag.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 4.5,
-        "resonance": 4.5,
-        "virality": 4.0,
-        "feasibility": 4.5,
-        "rationale": "This idea strongly aligns with SKIMS' values of inclusivity and comfort, while effectively targeting their audience and leveraging social media for greater reach."
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.0,
+        "virality": 3.5,
+        "feasibility": 4.0,
+        "rationale": "The idea aligns well with brand values and the target audience's interests, but potential media risks and execution details need clearer definition."
       }
     },
     {
@@ -265,12 +265,12 @@
         "https://www.bizjournals.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 4.5,
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.25,
         "virality": 3.5,
-        "feasibility": 4.0,
-        "rationale": "The idea aligns perfectly with SKIMS' values of inclusivity and comfort while directly engaging the target audience, though virality may depend on media engagement success."
+        "feasibility": 3.75,
+        "rationale": "The idea aligns well with SKIMS' values but may face challenges in broader reach and engagement."
       }
     },
     {
@@ -283,12 +283,12 @@
         "https://www.eventbrite.com/"
       ],
       "scores": {
-        "brand_fit": 5.0,
-        "audience": 5.0,
-        "resonance": 4.5,
-        "virality": 4.0,
-        "feasibility": 3.5,
-        "rationale": "This initiative enhances SKIMS' brand values and goals by fostering inclusivity and community engagement, though it requires careful planning for scalability."
+        "brand_fit": 4.5,
+        "audience": 4.0,
+        "resonance": 4.0,
+        "virality": 3.5,
+        "feasibility": 3.0,
+        "rationale": "The idea aligns well with SKIMS' values of inclusivity and body positivity, but faces operational challenges in execution."
       }
     },
     {
@@ -302,11 +302,11 @@
       ],
       "scores": {
         "brand_fit": 4.5,
-        "audience": 5.0,
-        "resonance": 4.5,
-        "virality": 4.0,
-        "feasibility": 3.5,
-        "rationale": "The idea strongly aligns with SKIMS' values of inclusivity and body positivity, effectively engages the target audience, and leverages community-driven content for cultural relevance."
+        "audience": 4.0,
+        "resonance": 3.5,
+        "virality": 3.25,
+        "feasibility": 3.75,
+        "rationale": "The idea strongly aligns with SKIMS' values of body positivity and inclusivity, but it lacks specifics on community engagement and potential reach."
       }
     },
     {
@@ -319,12 +319,12 @@
         "https://www.universitybusiness.com/"
       ],
       "scores": {
-        "brand_fit": 4.5,
+        "brand_fit": 4.75,
         "audience": 4.0,
-        "resonance": 4.75,
+        "resonance": 4.5,
         "virality": 4.25,
         "feasibility": 3.5,
-        "rationale": "This idea aligns strongly with SKIMS' values of inclusivity and body positivity, effectively engages the target demographic but faces some logistical challenges in execution."
+        "rationale": "Leveraging university ambassadors aligns with brand values but may face operational complexities."
       }
     }
   ]
